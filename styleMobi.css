@@ -96,6 +96,17 @@
     width: 70%;
     }
 
+    #slider .text-heading {
+        font-weight: 500;
+        font-size: 18px;
+        margin: 5px;
+    }
+
+    #slider .text-description {
+        font-size: 12px;
+        margin: 5px;
+    }
+
     #tour-place{
         display: table;
     }
@@ -103,7 +114,6 @@
     #tour-place .buy-ticket{
         overflow: auto;
         width: 100%;
-        padding: 0 70px;
     }
 
     #tour-place .buy-ticket-button{
@@ -148,4 +158,14 @@
         font-size: 32px;
         margin: 0 5px;
     }
+
+#footer #footer-icon .icon,
+  #footer #footer-icon .ticon,
+  #footer #footer-icon icon,
+  #footer #footer-icon .ticon,
+  #footer #footer-icon icon,
+  #footer #footer-icon .icon{
+      font-size: 24px;
+  }
+
 }

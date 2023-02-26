@@ -104,17 +104,20 @@
       transform: translateX(-50%);
       text-align: center;
       color: white;
+      
   }
   
   #slider .text-heading{
        font-weight: 500;
        font-size: 24px;
        margin: 10px;
+       text-shadow: 0 0 5px rgb(0, 0, 0);
   }
   
   #slider .text-description{
        font-size: 15px;
        margin: 15px;
+       text-shadow: 0 0 5px black;
   }
   
   
@@ -161,7 +164,7 @@
   }
   
   #content .member-img{
-      width: 60%;
+      width: 90%;
       border-radius: 4px;
       margin: 15px 0;
   }
@@ -339,7 +342,6 @@
   }
   
   #footer #footer-icon{
-      font-size: 20px;
       letter-spacing: 1.5px;
       margin-top: 15px;
       color: rgba(111, 106, 109, 0.8);
@@ -350,7 +352,7 @@
   #footer #footer-icon .ti-youtube:hover,
   #footer #footer-icon .ti-pinterest:hover,
   #footer #footer-icon .ti-twitter:hover,
-  #footer #footer-icon .ti-linkedin:hover{
+  #footer #footer-icon .ti-linkedin:hover {
       color: rgba(111, 106, 109, 8);
       cursor: pointer;
   }
