@@ -47,6 +47,10 @@
         font-size: 32px;
         margin: 0 5px;
     }
+
+    .tour-section .tour-ticket li{
+    list-style-type: none;
+}
 }
 
 @media (max-width: 739px) {
@@ -175,4 +179,7 @@
       font-size: 24px;
   }
 
+  .tour-section .tour-ticket li{
+    list-style-type: none;
+}
 }
