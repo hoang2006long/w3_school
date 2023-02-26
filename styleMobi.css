@@ -148,6 +148,13 @@
         text-align: center;
     }
 
+    #content .content-section {
+        padding: 64px 16px 0 16px;
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+
     #contact-box #send{
         width: 100%;
         margin: 0;
