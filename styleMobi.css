@@ -182,4 +182,9 @@
   .tour-section .tour-ticket li{
     list-style-type: none;
 }
+
+#content .member-item {
+    width: 90%;
+    margin: 20px auto;
+}
 }
